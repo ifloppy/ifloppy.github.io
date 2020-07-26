@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-07-26T05:45:00.441Z</updated>
+    <updated>2020-07-26T06:24:13.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[骗多多买32GB的360U盘?]]></title>
+        <id>https://blog.ifloppy.wang/post/pian-duo-duo-mai-32gb-de-360u-pan/</id>
+        <link href="https://blog.ifloppy.wang/post/pian-duo-duo-mai-32gb-de-360u-pan/">
+        </link>
+        <updated>2020-07-26T05:54:09.000Z</updated>
+        <content type="html"><![CDATA[<p>如题，今天软盘君在骗多多上买了个U盘<br>
+微信钱包-20CNY<br>
+<img src="https://blog.ifloppy.wang/post-images/1595743234014.jpg" alt="" loading="lazy"></p>
+<p>注意!本文在撰写时U盘还没有发货，本文中写到的写到的所有内容主要为推测，请杠精不要抬杠，也不要刻意抹黑商家</p>
+<p>商家给出的数据:<br>
+1 品牌(由图可知是360的U盘,商品详情里面也说明了这一点)<br>
+2 绝版(具体有没有绝版 谁知道呢)<br>
+3 企业级(等到手之后试试不就知道了)<br>
+4 数据安全不丢失(这个要我长期测试<s>然后扔进硫酸测试</s>才能有结果)<br>
+5 全金属外壳(长时间插在电脑上会不会烫手???是不是全金属好像不是特别重要吧，这个我不是很懂，欢迎正在看我瞎扯的小伙伴给个解释)<br>
+6 优盘9辰新(怀疑商家打错字了，或者这段有什么别的意思，暂缺先蒙在已经给商品留下评价的人的键盘里)<br>
+7 适合balabalabala等(以后我硬盘里的小哥哥(????)就直接放这里面了)</p>
+<p>对于已经留下评论的人:<br>
+我不知道他们说的是实话还是商家在刷单，又或者是商家对一部分人当良心商家 割剩下的人的韭菜<br>
+这个要等我收到快递，实际测试一段时间之后才知道</p>
+<p>我的看法:<br>
+1 我认为这个U盘的来源是个谜，商家的U盘是偷来的还是买来的 谁知道呢?<br>
+2 如果已经绝版了，那商家的U盘可能已经放(或者用)了很长时间了，商家的这句“9辰新”也不一定是真的打错字，还可能另有其他含义，这一点需要等到U盘到手之后才能知道<br>
+3 你说了是企业级，所以我会怀疑这是商家从哪个数据中心/机房里偷的，但是我在Google上搜寻，没有找到360数据中心进贼，因此我不能完全确定U盘是偷来的，U盘来源以及为什么这么便宜我们暂且先蒙在360的U盘缩水检测里<br>
+4 数据安全不丢失，不丢失我半信半疑，数据安全是真的完全安全吗?我担心商家有什么黑科技在U盘中，用于窃取用户保存在U盘中的档案<br>
+5 全金属/外壳 or 全/金属外壳? (po主想象力丰富XD)至于是不是真的全都是金属的外壳我也不是特别在意<br>
+6 我对于九成新的看法已经在“我的看法”第二个段落中说明了<br>
+7 适合干啥的话要看看磁盘IO等各种参数，对于我的日常办公来说，在U盘里存储一些小的项目文件应该不算是难事</p>
+<p>最后，就等着这个U盘送到了，U盘具体怎么样要实际测试而不是想本文一样一味地瞎推测<br>
+送到后我会把测试U盘的过程撰写成很多篇文章po到我的日记上<br>
+经费花在了买U盘上。。。？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[软盘的日记迁移记录]]></title>
         <id>https://blog.ifloppy.wang/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/</id>
