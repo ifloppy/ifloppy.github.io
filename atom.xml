@@ -2,12 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ifloppy.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-26T04:17:32.645Z</updated>
+    <updated>2020-07-26T04:41:02.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ifloppy.github.io"/>
     <link rel="self" href="https://ifloppy.github.io/atom.xml"/>
-    <subtitle>沙雕软盘的沙雕日记XD</subtitle>
+    <subtitle>软盘君是个沙雕qwq</subtitle>
     <logo>https://ifloppy.github.io/images/avatar.png</logo>
     <icon>https://ifloppy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[软盘的日记迁移记录]]></title>
+        <id>https://ifloppy.github.io/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/</id>
+        <link href="https://ifloppy.github.io/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/">
+        </link>
+        <updated>2020-07-26T04:30:05.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="软盘君的小日记迁移">软盘君的小日记迁移</h2>
+<p>我把我的日记迁移到了Github<br>
+原因:<br>
+1 这是一个不正经的网站，存储在我的主伺服器上会占用一些不必要的空间<br>
+2 小水管，不好存一些图片😂<br>
+<s>3 吃饱撑着</s></p>
+<h2 id="以后撰写的文章类型">以后撰写的文章类型</h2>
+<p>仍然是瞎扯一些不正经的内容<br>
+只不过换了个地方存储</p>
+<h2 id="为什么要用gridea">为什么要用Gridea</h2>
+<p>因为看到有很多人使用，Gridea看起来很简单易用</p>
+<h2 id="为什么不把之前的数据迁移过来">为什么不把之前的数据迁移过来</h2>
+<p>原因:<br>
+1 SEO<br>
+2 WordPress迁移到Gridea似乎不是和简单省事，直接重新开始似乎更容易一些</p>
+<h2 id="迁移后又发生了什么问题">迁移后又发生了什么问题</h2>
+<p>我的https://www.blog.ifloppy.wang/ 似乎遇到了一些问题</p>
+<p>它被我的浏览器标记为“不安全”，在看完谷歌的文章后我仍然是一头雾水，不知道发生了什么<br>
+<img src="https://ifloppy.github.io/post-images/1595738453599.png" alt="" loading="lazy"></p>
+<h2 id="后续">后续</h2>
+<p>主站(iruanp.com)我不太打算迁移到github</p>
+]]></content>
+    </entry>
 </feed>
