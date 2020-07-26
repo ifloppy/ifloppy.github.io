@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
-    <title>Gridea</title>
-    <updated>2020-07-26T05:40:08.831Z</updated>
+    <title>软盘君的日记</title>
+    <updated>2020-07-26T05:44:10.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
     <subtitle>沙雕软盘的沙雕日记</subtitle>
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 软盘君的日记</rights>
     <entry>
         <title type="html"><![CDATA[软盘的日记迁移记录]]></title>
         <id>https://blog.ifloppy.wang/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/</id>
