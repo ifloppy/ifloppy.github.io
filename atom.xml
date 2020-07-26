@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ifloppy.github.io</id>
+    <id>https://blog.ifloppy.wang</id>
     <title>Gridea</title>
-    <updated>2020-07-26T05:14:36.635Z</updated>
+    <updated>2020-07-26T05:16:12.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ifloppy.github.io"/>
-    <link rel="self" href="https://ifloppy.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.ifloppy.wang"/>
+    <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
     <subtitle>沙雕软盘的沙雕日记</subtitle>
-    <logo>https://ifloppy.github.io/images/avatar.png</logo>
-    <icon>https://ifloppy.github.io/favicon.ico</icon>
+    <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
+    <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[软盘的日记迁移记录]]></title>
-        <id>https://ifloppy.github.io/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/</id>
-        <link href="https://ifloppy.github.io/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/">
+        <id>https://blog.ifloppy.wang/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/</id>
+        <link href="https://blog.ifloppy.wang/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/">
         </link>
         <updated>2020-07-26T04:30:05.000Z</updated>
         <content type="html"><![CDATA[<h2 id="软盘君的小日记迁移">软盘君的小日记迁移</h2>
@@ -34,7 +34,7 @@
 <h2 id="迁移后又发生了什么问题">迁移后又发生了什么问题</h2>
 <p>我的https://www.blog.ifloppy.wang/ 似乎遇到了一些问题</p>
 <p>它被我的浏览器标记为“不安全”，在看完谷歌的文章后我仍然是一头雾水，不知道发生了什么<br>
-<img src="https://ifloppy.github.io/post-images/1595738453599.png" alt="" loading="lazy"></p>
+<img src="https://blog.ifloppy.wang/post-images/1595738453599.png" alt="" loading="lazy"></p>
 <h2 id="后续">后续</h2>
 <p>主站(iruanp.com)我不太打算迁移到github</p>
 ]]></content>
