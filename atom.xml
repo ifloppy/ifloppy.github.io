@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-07-26T06:24:52.828Z</updated>
+    <updated>2020-07-27T03:02:45.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[骗多多捡的U盘发货了]]></title>
+        <id>https://blog.ifloppy.wang/post/pian-duo-duo-jian-de-u-pan-fa-huo-liao/</id>
+        <link href="https://blog.ifloppy.wang/post/pian-duo-duo-jian-de-u-pan-fa-huo-liao/">
+        </link>
+        <updated>2020-07-27T03:00:24.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天晚上十一点钟左右我在骗多多上买的U盘发货了，从邢台市发货的<br>
+不知道什么时候送到，有点捉急，想要快点来测一下骗多多上二十块钱买的U盘<br>
+评论区的人写的似乎都还不错，等到手之后再说吧XD</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[骗多多买32GB的360U盘?]]></title>
         <id>https://blog.ifloppy.wang/post/pian-duo-duo-mai-32gb-de-360u-pan/</id>
