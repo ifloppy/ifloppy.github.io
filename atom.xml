@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-07-27T03:02:45.325Z</updated>
+    <updated>2020-07-28T09:41:24.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[计划改行做游戏类影片]]></title>
+        <id>https://blog.ifloppy.wang/post/ji-hua-gai-xing-zuo-you-xi-lei-ying-pian/</id>
+        <link href="https://blog.ifloppy.wang/post/ji-hua-gai-xing-zuo-you-xi-lei-ying-pian/">
+        </link>
+        <updated>2020-07-28T09:34:25.000Z</updated>
+        <content type="html"><![CDATA[<p>之前在骗多多上捡的U盘还没有送到，所以暂时没办法做有关骗多多U盘的影片</p>
+<p>最近比较喜欢玩Minecraft，所以打算做有关麦块的影片<br>
+可能会做有关PVP游戏、生存的</p>
+<p>生存的话我会在我朋友的服务器里录制<br>
+欢迎各位加入 maxcraft.fun<br>
+QQ群：953762913<br>
+基岩版服，智慧型手机和Windows10电脑皆可登入<br>
+暂时还没有严格的加服要求</p>
+<p>PVP游戏的话我会优先考虑游戏世界的起床战争<br>
+考虑到这个Java版土豆服经常会出现各种情况(例如卡顿)，所以我不会主要做这类影片<br>
+<s>其实真正主要的原因是软盘君太菜了XD</s>(你没有看见左边这段划掉的文字哦XD)<br>
+我可能会用这种标题:某菜鸟_______，当菜鸟________时 等，反正就是把我塑造成一个菜鸟XD</p>
+<p>以上的只是个计划，最终我发在YT上的可能不是游戏类的影片XD</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[骗多多捡的U盘发货了]]></title>
         <id>https://blog.ifloppy.wang/post/pian-duo-duo-jian-de-u-pan-fa-huo-liao/</id>
