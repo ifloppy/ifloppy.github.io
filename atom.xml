@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-07-28T09:41:24.190Z</updated>
+    <updated>2020-07-29T03:32:01.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[去你大爷的PVP]]></title>
+        <id>https://blog.ifloppy.wang/post/qu-ni-da-ye-de-pvp/</id>
+        <link href="https://blog.ifloppy.wang/post/qu-ni-da-ye-de-pvp/">
+        </link>
+        <updated>2020-07-29T02:59:03.000Z</updated>
+        <content type="html"><![CDATA[<p>心态崩了，下次影片不做游戏PVP</p>
+<p>今天玩游戏世界的经典起床，截了个图发到MaxCraft群里，有人吐槽我用的端不专业，用的鼠标键盘不好，还没过一会儿，就在游戏里被虐了= =</p>
+<p>现在我不想玩PVP，更别说做这类影片了= =</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计划改行做游戏类影片]]></title>
         <id>https://blog.ifloppy.wang/post/ji-hua-gai-xing-zuo-you-xi-lei-ying-pian/</id>
