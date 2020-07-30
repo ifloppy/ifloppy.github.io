@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-07-29T03:32:01.262Z</updated>
+    <updated>2020-07-30T09:42:53.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[影片日常咕咕咕]]></title>
+        <id>https://blog.ifloppy.wang/post/ying-pian-ri-chang-gu-gu-gu/</id>
+        <link href="https://blog.ifloppy.wang/post/ying-pian-ri-chang-gu-gu-gu/">
+        </link>
+        <updated>2020-07-30T09:41:20.000Z</updated>
+        <content type="html"><![CDATA[<p>评测骗多多上买的360U盘的影片昨天就录制好了<br>
+今天都还没开始剪，打算拖到下个月XD</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[骗多多上买的360U盘32GB到了]]></title>
+        <id>https://blog.ifloppy.wang/post/pian-duo-duo-shang-mai-de-360u-pan-32gb-dao-liao/</id>
+        <link href="https://blog.ifloppy.wang/post/pian-duo-duo-shang-mai-de-360u-pan-32gb-dao-liao/">
+        </link>
+        <updated>2020-07-29T03:52:49.000Z</updated>
+        <content type="html"><![CDATA[<p>测试U盘将会做(水)成一段影片发布在YT上<br>
+现在还没开始测试哦，录完了我还会在这里再发一篇日记awa</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去你大爷的PVP]]></title>
         <id>https://blog.ifloppy.wang/post/qu-ni-da-ye-de-pvp/</id>
