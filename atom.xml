@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-07-31T04:44:08.250Z</updated>
+    <updated>2020-08-01T06:53:08.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[骗多多32GB360U盘测评影片正在输出]]></title>
+        <id>https://blog.ifloppy.wang/post/pian-duo-duo-32gb360u-pan-ce-ping-ying-pian-zheng-zai-shu-chu/</id>
+        <link href="https://blog.ifloppy.wang/post/pian-duo-duo-32gb360u-pan-ce-ping-ying-pian-zheng-zai-shu-chu/">
+        </link>
+        <updated>2020-08-01T06:50:51.000Z</updated>
+        <content type="html"><![CDATA[<p>如果输出比较快的话就今天发布影片，输出比较慢的话就明天发布影片<br>
+输出之后我还要对影片中的内容进行检查，看有哪些地方必须修正啥的</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歧视LGBT的死妈废物孤儿杂种给林北死出来，你才疾病，你全家都他妈是疾病]]></title>
         <id>https://blog.ifloppy.wang/post/qi-shi-lgbt-de-si-ma-fei-wu-gu-er-za-chong-gei-lin-bei-si-chu-lai-ni-cai-ji-bing-ni-quan-jia-du-ta-ma-shi-ji-bing/</id>
