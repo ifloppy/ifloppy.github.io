@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-08-03T02:31:21.216Z</updated>
+    <updated>2020-08-05T08:20:07.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[Qt安装程序下载文件是真的慢]]></title>
+        <id>https://blog.ifloppy.wang/post/qt-an-zhuang-cheng-xu-xia-zai-wen-jian-shi-zhen-de-man/</id>
+        <link href="https://blog.ifloppy.wang/post/qt-an-zhuang-cheng-xu-xia-zai-wen-jian-shi-zhen-de-man/">
+        </link>
+        <updated>2020-08-05T08:18:01.000Z</updated>
+        <content type="html"><![CDATA[<p>挂着自己的代理下载一上午，不开代理下载一下午，Qt才下载组件到18%</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的影片观看数量少得可怜]]></title>
         <id>https://blog.ifloppy.wang/post/xin-de-ying-pian-guan-kan-shu-liang-shao-de-ke-lian/</id>
@@ -160,35 +169,6 @@ QQ群：953762913<br>
 <p>最后，就等着这个U盘送到了，U盘具体怎么样要实际测试而不是想本文一样一味地瞎推测<br>
 送到后我会把测试U盘的过程撰写成很多篇文章po到我的日记上<br>
 经费花在了买U盘上。。。？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软盘的日记迁移记录]]></title>
-        <id>https://blog.ifloppy.wang/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/</id>
-        <link href="https://blog.ifloppy.wang/post/ruan-pan-de-ri-ji-qian-yi-ji-lu/">
-        </link>
-        <updated>2020-07-26T04:30:05.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="软盘君的小日记迁移">软盘君的小日记迁移</h2>
-<p>我把我的日记迁移到了Github<br>
-原因:<br>
-1 这是一个不正经的网站，存储在我的主伺服器上会占用一些不必要的空间<br>
-2 小水管，不好存一些图片😂<br>
-<s>3 吃饱撑着</s></p>
-<h2 id="以后撰写的文章类型">以后撰写的文章类型</h2>
-<p>仍然是瞎扯一些不正经的内容<br>
-只不过换了个地方存储</p>
-<h2 id="为什么要用gridea">为什么要用Gridea</h2>
-<p>因为看到有很多人使用，Gridea看起来很简单易用</p>
-<h2 id="为什么不把之前的数据迁移过来">为什么不把之前的数据迁移过来</h2>
-<p>原因:<br>
-1 SEO<br>
-2 WordPress迁移到Gridea似乎不是和简单省事，直接重新开始似乎更容易一些</p>
-<h2 id="迁移后又发生了什么问题">迁移后又发生了什么问题</h2>
-<p>我的https://www.blog.ifloppy.wang/ 似乎遇到了一些问题</p>
-<p>它被我的浏览器标记为“不安全”，在看完谷歌的文章后我仍然是一头雾水，不知道发生了什么<br>
-<img src="https://blog.ifloppy.wang/post-images/1595738453599.png" alt="" loading="lazy"></p>
-<h2 id="后续">后续</h2>
-<p>主站(iruanp.com)我不太打算迁移到github</p>
 ]]></content>
     </entry>
 </feed>
