@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-08-16T02:02:03.360Z</updated>
+    <updated>2020-08-19T08:56:42.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[整了一个文件分享网站]]></title>
+        <id>https://blog.ifloppy.wang/post/zheng-liao-yi-ge-wen-jian-fen-xiang-wang-zhan/</id>
+        <link href="https://blog.ifloppy.wang/post/zheng-liao-yi-ge-wen-jian-fen-xiang-wang-zhan/">
+        </link>
+        <updated>2020-08-19T08:48:48.000Z</updated>
+        <content type="html"><![CDATA[<p>单纯就一个OneManager搭建的网盘罢了<br>
+用的是之前白嫖来的EP+Kangle空间<br>
+刚开始我是打算用Cloudreve+某免费空间的，搭好了之后才发现......这Cloudreve有个文件传输队列，虚拟主机上似乎不能这么玩......<br>
+DzzOffice我也考虑过，后来还是放弃了，因为装上之后报错<br>
+Nextcloud我也试过了，一群人在那里瞎bb说什么NextCloud可以直接对接OneDrive，跟着做到后面才发现这是让我用VPS+RaiDrive完成这个“艰巨的任务”，这不挂羊头卖狗肉吗，虽说文件是可以传，但是带宽跑的还是服务器的......<br>
+后来想想 反正我就只是传些文件的时候用用，又老老实实搭建起了OneManager......<br>
+FloppyFiles网站：<br>
+https://pan.floppybetastudio.tk<br>
+或者<br>
+http://files.iruanp.com<br>
+身在中国大陆的访客 推荐使用后者访问<br>
+后续会使用这个网站分享更多资源.w.<br>
+带颜色的除外=w=</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我对各种地区的动画的一些看法]]></title>
         <id>https://blog.ifloppy.wang/post/wo-dui-ge-chong-di-qu-de-dong-hua-de-yi-xie-kan-fa/</id>
@@ -148,27 +169,6 @@
         <content type="html"><![CDATA[<p>心态崩了，下次影片不做游戏PVP</p>
 <p>今天玩游戏世界的经典起床，截了个图发到MaxCraft群里，有人吐槽我用的端不专业，用的鼠标键盘不好，还没过一会儿，就在游戏里被虐了= =</p>
 <p>现在我不想玩PVP，更别说做这类影片了= =</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计划改行做游戏类影片]]></title>
-        <id>https://blog.ifloppy.wang/post/ji-hua-gai-xing-zuo-you-xi-lei-ying-pian/</id>
-        <link href="https://blog.ifloppy.wang/post/ji-hua-gai-xing-zuo-you-xi-lei-ying-pian/">
-        </link>
-        <updated>2020-07-28T09:34:25.000Z</updated>
-        <content type="html"><![CDATA[<p>之前在骗多多上捡的U盘还没有送到，所以暂时没办法做有关骗多多U盘的影片</p>
-<p>最近比较喜欢玩Minecraft，所以打算做有关麦块的影片<br>
-可能会做有关PVP游戏、生存的</p>
-<p>生存的话我会在我朋友的服务器里录制<br>
-欢迎各位加入 maxcraft.fun<br>
-QQ群：953762913<br>
-基岩版服，智慧型手机和Windows10电脑皆可登入<br>
-暂时还没有严格的加服要求</p>
-<p>PVP游戏的话我会优先考虑游戏世界的起床战争<br>
-考虑到这个Java版土豆服经常会出现各种情况(例如卡顿)，所以我不会主要做这类影片<br>
-<s>其实真正主要的原因是软盘君太菜了XD</s>(你没有看见左边这段划掉的文字哦XD)<br>
-我可能会用这种标题:某菜鸟_______，当菜鸟________时 等，反正就是把我塑造成一个菜鸟XD</p>
-<p>以上的只是个计划，最终我发在YT上的可能不是游戏类的影片XD</p>
 ]]></content>
     </entry>
 </feed>
