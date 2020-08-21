@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-08-19T08:56:42.439Z</updated>
+    <updated>2020-08-21T05:35:02.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[你不在我Q群里是怎么知道我Q群里每个成员的名片的?]]></title>
+        <id>https://blog.ifloppy.wang/post/ni-bu-zai-wo-q-qun-li-shi-zen-me-zhi-dao-wo-q-qun-li-mei-ge-cheng-yuan-de-ming-pian-de/</id>
+        <link href="https://blog.ifloppy.wang/post/ni-bu-zai-wo-q-qun-li-shi-zen-me-zhi-dao-wo-q-qun-li-mei-ge-cheng-yuan-de-ming-pian-de/">
+        </link>
+        <updated>2020-08-21T05:14:51.000Z</updated>
+        <content type="html"><![CDATA[<p>这个人是谁我们暂且先蒙在我老号头像那个狗的眼神里<br>
+<img src="https://blog.ifloppy.wang/post-images/1597987311107.png" alt="" loading="lazy"><br>
+这个人不在我的群里，那么他是怎么知道我们群里有人群名片违规的呢？<br>
+假装我们不知道这家伙是谁</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[整了一个文件分享网站]]></title>
         <id>https://blog.ifloppy.wang/post/zheng-liao-yi-ge-wen-jian-fen-xiang-wang-zhan/</id>
@@ -158,17 +170,6 @@ http://files.iruanp.com<br>
         <updated>2020-07-29T03:52:49.000Z</updated>
         <content type="html"><![CDATA[<p>测试U盘将会做(水)成一段影片发布在YT上<br>
 现在还没开始测试哦，录完了我还会在这里再发一篇日记awa</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去你大爷的PVP]]></title>
-        <id>https://blog.ifloppy.wang/post/qu-ni-da-ye-de-pvp/</id>
-        <link href="https://blog.ifloppy.wang/post/qu-ni-da-ye-de-pvp/">
-        </link>
-        <updated>2020-07-29T02:59:03.000Z</updated>
-        <content type="html"><![CDATA[<p>心态崩了，下次影片不做游戏PVP</p>
-<p>今天玩游戏世界的经典起床，截了个图发到MaxCraft群里，有人吐槽我用的端不专业，用的鼠标键盘不好，还没过一会儿，就在游戏里被虐了= =</p>
-<p>现在我不想玩PVP，更别说做这类影片了= =</p>
 ]]></content>
     </entry>
 </feed>
