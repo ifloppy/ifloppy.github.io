@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.ifloppy.wang</id>
     <title>软盘君的日记</title>
-    <updated>2020-08-21T05:45:19.896Z</updated>
+    <updated>2020-08-30T06:20:41.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.ifloppy.wang"/>
     <link rel="self" href="https://blog.ifloppy.wang/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://blog.ifloppy.wang/images/avatar.png</logo>
     <icon>https://blog.ifloppy.wang/favicon.ico</icon>
     <rights>All rights reserved 2020, 软盘君的日记</rights>
+    <entry>
+        <title type="html"><![CDATA[给电脑加了一根新的内存]]></title>
+        <id>https://blog.ifloppy.wang/post/gei-dian-nao-jia-liao-yi-gen-xin-de-nei-cun/</id>
+        <link href="https://blog.ifloppy.wang/post/gei-dian-nao-jia-liao-yi-gen-xin-de-nei-cun/">
+        </link>
+        <updated>2020-08-30T06:12:40.000Z</updated>
+        <content type="html"><![CDATA[<p>骗多多上买的内存，看了看之前电脑上插的内存，买了根一样的<br>
+钱包-60RMB<br>
+于是电脑内存从4GB变成了8GB，钱包.......(悲)<br>
+主板上的俩内存插槽我都给他插满了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你不在我Q群里是怎么知道我Q群里每个成员的名片的?]]></title>
         <id>https://blog.ifloppy.wang/post/ni-bu-zai-wo-q-qun-li-shi-zen-me-zhi-dao-wo-q-qun-li-mei-ge-cheng-yuan-de-ming-pian-de/</id>
@@ -160,16 +172,6 @@ http://files.iruanp.com<br>
         <updated>2020-07-30T09:41:20.000Z</updated>
         <content type="html"><![CDATA[<p>评测骗多多上买的360U盘的影片昨天就录制好了<br>
 今天都还没开始剪，打算拖到下个月XD</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[骗多多上买的360U盘32GB到了]]></title>
-        <id>https://blog.ifloppy.wang/post/pian-duo-duo-shang-mai-de-360u-pan-32gb-dao-liao/</id>
-        <link href="https://blog.ifloppy.wang/post/pian-duo-duo-shang-mai-de-360u-pan-32gb-dao-liao/">
-        </link>
-        <updated>2020-07-29T03:52:49.000Z</updated>
-        <content type="html"><![CDATA[<p>测试U盘将会做(水)成一段影片发布在YT上<br>
-现在还没开始测试哦，录完了我还会在这里再发一篇日记awa</p>
 ]]></content>
     </entry>
 </feed>
